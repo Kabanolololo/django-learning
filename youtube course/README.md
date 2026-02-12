@@ -5,6 +5,12 @@ This folder contains my learning progress while following the YouTube course fro
 
 ---
 
+## 📑 Table of Contents
+
+- [📌 Learning source](#-learning-source)
+- [📺 Episode 2 — Setup & Installation (used commands)](#-episode-2--setup--installation-used-commands)
+- [📺 Episode 3 — Django Basics](#-episode-3--django-basics)
+
 ## 📌 Learning source
 
 🎥 **Django Tutorial – The Net Ninja**  
@@ -35,3 +41,26 @@ In this episode I learned how to create a Django project and a Django app, and h
 
 - `python manage.py runserver`  
   Starts the local development server so the project can be viewed in the browser.
+
+---
+
+## 📺 Episode 3 — Django Basics
+
+In this episode I learned how Django handles requests using views and URL routing.
+
+### 🔧 Things used in the video
+
+- creating a function-based view in `views.py`  
+  Defines what should be returned when a user visits a specific page.
+
+- using `HttpResponse`  
+  Returns a simple text response from a view.
+
+- connecting a view to a URL in `urls.py`  
+  Maps a URL path to a specific view function.
+
+- understanding the URL → view flow  
+  Shows how Django decides which view handles a request.
+
+- testing the page in the browser using `runserver`  
+  Confirms that the view and URL configuration work correctly.
