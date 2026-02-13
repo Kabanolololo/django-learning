@@ -10,7 +10,7 @@ This folder contains my learning progress while following the YouTube course fro
 - [📌 Learning source](#-learning-source)
 - [📺 Episode 2 — Setup & Installation (used commands)](#-episode-2--setup--installation-used-commands)
 - [📺 Episode 3 — Django Basics](#-episode-3--django-basics)
-- [📺 Episode 4 — Database Setup](#-episode-4--database-setup)
+- [📺 Episode 4 — Database & Migrations](#-episode-4--database--migrations)
 
 ## 📌 Learning source
 
